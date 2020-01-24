@@ -1,0 +1,2 @@
+# Python_Zadania_Zaliczeniowe
+Wylosowane zadania zaliczeniowe
